@@ -1,2 +1,4 @@
-# Utils
-Experimental Codes
+# Experimental Codes
+
+- quantize
+Color reduction experiment
