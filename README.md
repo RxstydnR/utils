@@ -1,4 +1,4 @@
 # Experimental Codes
 
-- quantize
+- `quantize` 
 Color reduction experiment
