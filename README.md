@@ -1,4 +1,4 @@
 # Experimental Codes
 
-- `quantize` 
+- `**quantize**` <br>
 Color reduction experiment
